@@ -36,7 +36,7 @@ Este repositorio contiene una serie de proyectos prácticos que integran anális
 **Objetivo:** Extracción automatizada y asíncrona de datos de Portal Inmobiliario para la comuna de Huechuraba utilizando **Playwright**.
 
 * **Proceso:** Navegación por paginación, scroll dinámico y filtrado de precios en UF/m².
-* **Resultados de la Extracción:**
+* **Resultados de la Extracción(Valores referenciales para 20-01-26, cifra cambian con el tiempo en que se extraen):**
 
 | Métrica | Casas | Deptos |
 | :--- | :--- | :--- |
