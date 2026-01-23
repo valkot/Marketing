@@ -38,6 +38,8 @@ Este repositorio contiene una serie de proyectos prácticos que integran anális
 * **Proceso:** Navegación por paginación, scroll dinámico y filtrado de precios en UF/m².
 * **Resultados de la Extracción(Valores referenciales para 20-01-26, cifra cambian con el tiempo en que se extraen):**
 
+* **Se dejaron dos versiones, una que se realizo solo en OSX y otra que se modifico cuando se realizo el test de la funcion en una maquina con Windows, por lo que se debio realizar modificaciones dado a la forma en que Windows maneja los hilos**
+
 | Métrica | Casas | Deptos |
 | :--- | :--- | :--- |
 | Propiedades filtradas | 670 | 489 |
