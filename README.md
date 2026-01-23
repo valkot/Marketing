@@ -5,10 +5,10 @@ Este repositorio contiene una serie de proyectos prácticos que integran anális
 ## 📋 Contenido del Proyecto
 
 1.  [Cálculo de KPIs](#1-cálculo-de-kpis)
-2.  [Web Scraping Inmobiliario con Playwright](#2-web-scraping-inmobiliario)
-3.  [Predicción de Churn y Análisis de Lift](#3-predicción-de-churn)
-4.  [Modelado de CLTV (Gamma-Gamma vs Regresión)](#4-modelado-de-cltv)
-5.  [Inferencia Causal y Uplift Modeling](#5-inferencia-causal)
+2.  [Web Scraping](#2-web-scraping)
+3.  [Estrategia de retención y desafiliación / churn](#3-estrategia-de-retención-y-desafiliación-/-churn)
+4.  [CLTV](#4-cltv)
+5.  [Inferencia Causal](#5-inferencia-causal)
 
 ---
 
