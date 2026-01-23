@@ -31,7 +31,7 @@ Este repositorio contiene una serie de proyectos prácticos que integran anális
 
 ---
 
-## 2. Web Scraping Inmobiliario
+## 2. Web Scraping
 
 **Objetivo:** Extracción automatizada y asíncrona de datos de Portal Inmobiliario para la comuna de Huechuraba utilizando **Playwright**.
 
@@ -48,7 +48,7 @@ Este repositorio contiene una serie de proyectos prácticos que integran anális
 
 ---
 
-## 3. Predicción de Churn
+## 3. Estrategia de retención y desafiliación / Churn
 
 **Objetivo:** Clasificación de clientes en riesgo de fuga mediante un modelo de **Random Forest** y validación mediante análisis de deciles.
 
@@ -59,7 +59,7 @@ Este repositorio contiene una serie de proyectos prácticos que integran anális
 
 ---
 
-## 4. Modelado de CLTV
+## 4. CLTV
 
 **Objetivo:** Comparar la robustez de una Regresión Lineal tradicional frente al modelo probabilístico **Gamma-Gamma** para predecir el valor monetario futuro.
 
