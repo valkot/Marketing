@@ -75,7 +75,10 @@ Este repositorio contiene una serie de proyectos prácticos que integran anális
 * **Metodología:** Comparación entre **S-Learner** (Single Learner) y **T-Learner** (Two Learners) usando Random Forest Regressor.
 * **Conclusión:** Se detectó una correlación de **-0.3815** entre el ingreso y el CATE, indicando que la publicidad tiene un mayor impacto (*uplift*) en clientes con niveles de ingreso más bajos.
 
+## 📄 Informe 
+El informe esta embebido en el proyecto, pero se deja el link del latex donde se genero, solo en modo lectura
 
+🌐 https://app.crixet.com/?u=fdd93110-b832-49ec-a331-404f406cbe7b&pg=1&m=main.tex&d=7
 
 ---
 
