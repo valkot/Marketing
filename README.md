@@ -4,7 +4,7 @@ Este repositorio contiene una serie de proyectos prácticos que integran anális
 
 ## 📋 Contenido del Proyecto
 
-1.  [Análisis de Retail y Rentabilidad (GMROI)](#1-análisis-de-retail)
+1.  [ACálculo de KPIs](#1-análisis-de-retail)
 2.  [Web Scraping Inmobiliario con Playwright](#2-web-scraping-inmobiliario)
 3.  [Predicción de Churn y Análisis de Lift](#3-predicción-de-churn)
 4.  [Modelado de CLTV (Gamma-Gamma vs Regresión)](#4-modelado-de-cltv)
