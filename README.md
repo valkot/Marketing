@@ -1,4 +1,4 @@
-# Data Science & Business Analytics: Case Studies
+# Data Science & Business Analytics: Problem-Set Tarea 1
 
 Este repositorio contiene una serie de proyectos prácticos que integran análisis de retail, web scraping avanzado, modelos predictivos de fuga, estimación de valor de vida del cliente (CLTV) e inferencia causal.
 
